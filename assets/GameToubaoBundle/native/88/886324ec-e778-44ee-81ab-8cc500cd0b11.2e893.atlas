@@ -1,0 +1,181 @@
+
+touzi_roll.png
+size: 1176,1176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow
+  rotate: false
+  xy: 2, 907
+  size: 267, 267
+  orig: 300, 300
+  offset: 16, 16
+  index: -1
+roll_001
+  rotate: false
+  xy: 514, 917
+  size: 243, 257
+  orig: 280, 280
+  offset: 19, 11
+  index: -1
+roll_002
+  rotate: false
+  xy: 759, 921
+  size: 233, 253
+  orig: 280, 280
+  offset: 24, 13
+  index: -1
+roll_003
+  rotate: false
+  xy: 2, 643
+  size: 242, 262
+  orig: 280, 280
+  offset: 19, 9
+  index: -1
+roll_004
+  rotate: false
+  xy: 271, 913
+  size: 241, 261
+  orig: 280, 280
+  offset: 20, 9
+  index: -1
+roll_005
+  rotate: false
+  xy: 2, 128
+  size: 232, 251
+  orig: 280, 280
+  offset: 24, 14
+  index: -1
+roll_006
+  rotate: false
+  xy: 2, 381
+  size: 233, 260
+  orig: 280, 280
+  offset: 24, 10
+  index: -1
+roll_007
+  rotate: false
+  xy: 707, 672
+  size: 233, 243
+  orig: 280, 280
+  offset: 24, 18
+  index: -1
+roll_008
+  rotate: false
+  xy: 942, 681
+  size: 232, 238
+  orig: 280, 280
+  offset: 24, 21
+  index: -1
+roll_009
+  rotate: false
+  xy: 468, 667
+  size: 237, 244
+  orig: 280, 280
+  offset: 22, 18
+  index: -1
+roll_010
+  rotate: false
+  xy: 237, 400
+  size: 229, 241
+  orig: 280, 280
+  offset: 26, 19
+  index: -1
+roll_011
+  rotate: false
+  xy: 246, 659
+  size: 220, 246
+  orig: 280, 280
+  offset: 30, 17
+  index: -1
+roll_012
+  rotate: true
+  xy: 468, 211
+  size: 221, 225
+  orig: 280, 280
+  offset: 30, 27
+  index: -1
+roll_013
+  rotate: false
+  xy: 695, 193
+  size: 212, 239
+  orig: 280, 280
+  offset: 35, 20
+  index: -1
+roll_014
+  rotate: false
+  xy: 468, 434
+  size: 223, 231
+  orig: 280, 280
+  offset: 29, 24
+  index: -1
+roll_015
+  rotate: false
+  xy: 693, 434
+  size: 206, 231
+  orig: 280, 280
+  offset: 37, 24
+  index: -1
+roll_016
+  rotate: false
+  xy: 901, 457
+  size: 206, 213
+  orig: 280, 280
+  offset: 36, 32
+  index: -1
+roll_017
+  rotate: false
+  xy: 909, 249
+  size: 199, 206
+  orig: 280, 280
+  offset: 41, 36
+  index: -1
+roll_018
+  rotate: true
+  xy: 909, 63
+  size: 184, 206
+  orig: 280, 280
+  offset: 48, 37
+  index: -1
+roll_019
+  rotate: false
+  xy: 237, 205
+  size: 202, 193
+  orig: 280, 280
+  offset: 40, 43
+  index: -1
+roll_020
+  rotate: true
+  xy: 236, 19
+  size: 184, 185
+  orig: 280, 280
+  offset: 49, 47
+  index: -1
+roll_021
+  rotate: false
+  xy: 994, 987
+  size: 175, 187
+  orig: 280, 280
+  offset: 53, 46
+  index: -1
+roll_022
+  rotate: true
+  xy: 423, 31
+  size: 172, 170
+  orig: 280, 280
+  offset: 54, 55
+  index: -1
+roll_023
+  rotate: false
+  xy: 595, 35
+  size: 151, 156
+  orig: 280, 280
+  offset: 65, 62
+  index: -1
+roll_024
+  rotate: false
+  xy: 748, 40
+  size: 156, 151
+  orig: 280, 280
+  offset: 63, 64
+  index: -1

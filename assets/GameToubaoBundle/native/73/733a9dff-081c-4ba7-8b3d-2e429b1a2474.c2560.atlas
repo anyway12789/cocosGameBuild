@@ -1,0 +1,41 @@
+
+dragon.png
+size: 752,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 279
+  size: 499, 468
+  orig: 675, 468
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 314, 2
+  size: 43, 193
+  orig: 43, 196
+  offset: 0, 3
+  index: -1
+hair_02
+  rotate: true
+  xy: 314, 47
+  size: 54, 200
+  orig: 55, 201
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 314, 103
+  size: 122, 174
+  orig: 122, 174
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 9
+  size: 268, 310
+  orig: 268, 310
+  offset: 0, 0
+  index: -1
