@@ -1,0 +1,36 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "GameFishCrabBundle",
+    "deps": [],
+    "uuids": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "b494301a-27d2-4e5e-b77a-bf2991db866c"
+    ],
+    "paths": {},
+    "scenes": {
+        "db://assets/GameFishCrab/GameFishCrab.scene": "b494301a-27d2-4e5e-b77a-bf2991db866c"
+    },
+    "packs": {},
+    "versions": {
+        "import": [
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "a2533",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+            "32aca",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+            "753a7",
+            "b494301a-27d2-4e5e-b77a-bf2991db866c",
+            "d0c94"
+        ],
+        "native": [
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}
