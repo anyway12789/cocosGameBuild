@@ -1,0 +1,463 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@06f07",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@07fda",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@13404",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1419c",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@16fce",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@17ee2",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1b986",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1c7bb",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@27f11",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@2fbbd",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@32daa",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@351f4",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@3f6c6",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@42b8e",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@44125",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@47e88",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@49acd",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@515df",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@51eb1",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@5c481",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@69443",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@6a617",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@7248c",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@815bd",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@82761",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@86e34",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8d66c",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8eac4",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8ee55",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@93327",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@96d36",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@98296",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@9f6e0",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@a1322",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ae72d",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b12ff",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b613a",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@c42cb",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cc537",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ccb5d",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cd174",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d1f9a",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d47e6",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d6dfd",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d97ff",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@da486",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@e6217",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ed07f",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f182e",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f34a3",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f40eb",
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@fa6cf",
+        "c5733f0a-4440-4a7e-bc00-edad5b22d38b",
+        "c5733f0a-4440-4a7e-bc00-edad5b22d38b@6c48a"
+    ],
+    "paths": {
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4": [
+            "GameMiniPoker/popups_poke_words",
+            "cc.SpriteAtlas"
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@13404": [
+            "GameMiniPoker/popups_poke_words/poke_040",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@44125": [
+            "GameMiniPoker/popups_poke_words/poke_024",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@69443": [
+            "GameMiniPoker/popups_poke_words/poke_022",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@82761": [
+            "GameMiniPoker/popups_poke_words/poke_018",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@93327": [
+            "GameMiniPoker/popups_poke_words/poke_001",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@98296": [
+            "GameMiniPoker/popups_poke_words/poke_014",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@17ee2": [
+            "GameMiniPoker/popups_poke_words/poke_002",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@351f4": [
+            "GameMiniPoker/popups_poke_words/poke_003",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@86e34": [
+            "GameMiniPoker/popups_poke_words/poke_004",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@6a617": [
+            "GameMiniPoker/popups_poke_words/poke_005",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ccb5d": [
+            "GameMiniPoker/popups_poke_words/poke_006",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1419c": [
+            "GameMiniPoker/popups_poke_words/poke_007",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cc537": [
+            "GameMiniPoker/popups_poke_words/poke_008",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d6dfd": [
+            "GameMiniPoker/popups_poke_words/poke_009",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b12ff": [
+            "GameMiniPoker/popups_poke_words/poke_010",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@5c481": [
+            "GameMiniPoker/popups_poke_words/poke_011",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@49acd": [
+            "GameMiniPoker/popups_poke_words/poke_012",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8ee55": [
+            "GameMiniPoker/popups_poke_words/poke_013",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@fa6cf": [
+            "GameMiniPoker/popups_poke_words/poke_015",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@c42cb": [
+            "GameMiniPoker/popups_poke_words/poke_016",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@06f07": [
+            "GameMiniPoker/popups_poke_words/poke_017",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@47e88": [
+            "GameMiniPoker/popups_poke_words/poke_019",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d97ff": [
+            "GameMiniPoker/popups_poke_words/poke_020",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@16fce": [
+            "GameMiniPoker/popups_poke_words/poke_021",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ae72d": [
+            "GameMiniPoker/popups_poke_words/poke_023",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8eac4": [
+            "GameMiniPoker/popups_poke_words/poke_025",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8d66c": [
+            "GameMiniPoker/popups_poke_words/poke_026",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@96d36": [
+            "GameMiniPoker/popups_poke_words/poke_027",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ed07f": [
+            "GameMiniPoker/popups_poke_words/poke_028",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@32daa": [
+            "GameMiniPoker/popups_poke_words/poke_029",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@515df": [
+            "GameMiniPoker/popups_poke_words/poke_030",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@42b8e": [
+            "GameMiniPoker/popups_poke_words/poke_031",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@2fbbd": [
+            "GameMiniPoker/popups_poke_words/poke_032",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@7248c": [
+            "GameMiniPoker/popups_poke_words/poke_033",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f182e": [
+            "GameMiniPoker/popups_poke_words/poke_034",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@27f11": [
+            "GameMiniPoker/popups_poke_words/poke_035",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@815bd": [
+            "GameMiniPoker/popups_poke_words/poke_036",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@07fda": [
+            "GameMiniPoker/popups_poke_words/poke_037",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d1f9a": [
+            "GameMiniPoker/popups_poke_words/poke_038",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f40eb": [
+            "GameMiniPoker/popups_poke_words/poke_039",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@da486": [
+            "GameMiniPoker/popups_poke_words/poke_041",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@9f6e0": [
+            "GameMiniPoker/popups_poke_words/poke_042",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@51eb1": [
+            "GameMiniPoker/popups_poke_words/poke_043",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b613a": [
+            "GameMiniPoker/popups_poke_words/poke_044",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@3f6c6": [
+            "GameMiniPoker/popups_poke_words/poke_045",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1b986": [
+            "GameMiniPoker/popups_poke_words/poke_046",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d47e6": [
+            "GameMiniPoker/popups_poke_words/poke_047",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@e6217": [
+            "GameMiniPoker/popups_poke_words/poke_048",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cd174": [
+            "GameMiniPoker/popups_poke_words/poke_049",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1c7bb": [
+            "GameMiniPoker/popups_poke_words/poke_050",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f34a3": [
+            "GameMiniPoker/popups_poke_words/poke_051",
+            "cc.SpriteFrame",
+            1
+        ],
+        "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@a1322": [
+            "GameMiniPoker/popups_poke_words/poke_052",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c5733f0a-4440-4a7e-bc00-edad5b22d38b": [
+            "GameMiniPoker/popups_poke_words",
+            "cc.ImageAsset"
+        ],
+        "c5733f0a-4440-4a7e-bc00-edad5b22d38b@6c48a": [
+            "GameMiniPoker/popups_poke_words/texture",
+            "cc.Texture2D",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4",
+            "ee4cf",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@06f07",
+            "1247b",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@07fda",
+            "93936",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@13404",
+            "b8ee0",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1419c",
+            "a95f4",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@16fce",
+            "36967",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@17ee2",
+            "3e090",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1b986",
+            "62201",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@1c7bb",
+            "42b62",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@27f11",
+            "9f04f",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@2fbbd",
+            "6acde",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@32daa",
+            "af4c6",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@351f4",
+            "22771",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@3f6c6",
+            "5a58c",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@42b8e",
+            "6b620",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@44125",
+            "f9786",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@47e88",
+            "4b81f",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@49acd",
+            "d3d18",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@515df",
+            "682e4",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@51eb1",
+            "522bc",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@5c481",
+            "cae41",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@69443",
+            "bed5c",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@6a617",
+            "92444",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@7248c",
+            "bacce",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@815bd",
+            "92737",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@82761",
+            "f7dbe",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@86e34",
+            "c3443",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8d66c",
+            "2840c",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8eac4",
+            "3fb34",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@8ee55",
+            "ce25a",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@93327",
+            "b3da6",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@96d36",
+            "045c6",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@98296",
+            "fe92e",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@9f6e0",
+            "3cd1b",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@a1322",
+            "054c6",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ae72d",
+            "9f43f",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b12ff",
+            "5e18c",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@b613a",
+            "fe352",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@c42cb",
+            "97e2d",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cc537",
+            "4037c",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ccb5d",
+            "1678a",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@cd174",
+            "4ee24",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d1f9a",
+            "df170",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d47e6",
+            "47953",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d6dfd",
+            "172a7",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@d97ff",
+            "dbe59",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@da486",
+            "94338",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@e6217",
+            "b3c40",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@ed07f",
+            "6ac98",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f182e",
+            "fd6ca",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f34a3",
+            "9be3b",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@f40eb",
+            "63676",
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4@fa6cf",
+            "fa5f9",
+            "c5733f0a-4440-4a7e-bc00-edad5b22d38b",
+            "a2533",
+            "c5733f0a-4440-4a7e-bc00-edad5b22d38b@6c48a",
+            "9bf37"
+        ],
+        "native": [
+            "141e5fd7-ef0f-46a6-ac2d-beb0db0c5ea4",
+            "bb10d",
+            "c5733f0a-4440-4a7e-bc00-edad5b22d38b",
+            "c26c8"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}
