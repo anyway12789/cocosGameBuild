@@ -1,8 +1,4 @@
-<<<<<<< HEAD:index.7fa77.js
 System.register(["./application.fff63.js"], function (_export, _context) {
-=======
-System.register(["./application.26e18.js"], function (_export, _context) {
->>>>>>> c5250be81faa47b4c9ce2ea5dbe029f0ef178300:index.cdc2c.js
   "use strict";
 
   var createApplication, canvas, $p, bcr;
@@ -89,13 +85,8 @@ System.register(["./application.26e18.js"], function (_export, _context) {
   }
 
   return {
-<<<<<<< HEAD:index.7fa77.js
     setters: [function (_applicationFff63Js) {
       createApplication = _applicationFff63Js.createApplication;
-=======
-    setters: [function (_application26e18Js) {
-      createApplication = _application26e18Js.createApplication;
->>>>>>> c5250be81faa47b4c9ce2ea5dbe029f0ef178300:index.cdc2c.js
     }],
     execute: function () {
       canvas = document.getElementById('GameCanvas');

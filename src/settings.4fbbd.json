@@ -10,11 +10,7 @@
     "bundleVers": {
         "GameToubaoBundle": "53cd6",
         "main": "f0860",
-<<<<<<< HEAD:src/settings.4fbbd.json
         "MiniPokerBundle": "1683a",
-=======
-        "MiniPokerBundle": "0b3cd",
->>>>>>> c5250be81faa47b4c9ce2ea5dbe029f0ef178300:src/settings.a8c24.json
         "resources": "ffcc7"
     },
     "subpackages": [],

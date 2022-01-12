@@ -97,11 +97,7 @@ System.register([], function (_export, _context) {
 
     function loadSettingsJson(cc) {
       var server = '';
-<<<<<<< HEAD:application.fff63.js
       var settings = 'src/settings.4fbbd.json';
-=======
-      var settings = 'src/settings.a8c24.json';
->>>>>>> c5250be81faa47b4c9ce2ea5dbe029f0ef178300:application.26e18.js
       return new Promise(function (resolve, reject) {
         if (typeof fsUtils !== 'undefined' && !settings.startsWith('http')) {
           var result = fsUtils.readJsonSync(settings);
